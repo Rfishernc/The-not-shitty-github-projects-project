@@ -1,0 +1,1 @@
+# The not shitty github projects project
